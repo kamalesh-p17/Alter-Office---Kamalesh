@@ -1,0 +1,10 @@
+.card{
+    margin: 10px;
+    border: 1px solid gray;
+    width: 400px;
+    padding: 10px;
+}
+
+.titlebar{
+    display: flex;
+}
